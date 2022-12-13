@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA02F88DC1221F18958C5799ac89E340248e4D76e",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0xA02F88DC1221F18958C5799ac89E340248e4D76e",
+  "NETWORK": {
+    "NAME": "Dogechain",
+    "SYMBOL": "WDOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "Bread Doge",
+  "SYMBOL": "BD",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
